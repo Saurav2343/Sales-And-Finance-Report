@@ -1,5 +1,5 @@
 # Sales-And-Finance-Report
-Sales Report:
+# Sales Report:
 Project Objectives:
 
 1.Customer Performance Assessment: Developed an in-depth report for evaluating customer performance.
@@ -12,7 +12,7 @@ Significance of Sales Data Analysis: Unveiling sales patterns, tracking vital pe
 
 Role of Reports: Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
-Finance Report:
+# Finance Report:
 Project Objectives:
 
 1.Profit and Loss (P&L) Reports: Created P&L reports by fiscal years and P&L reports by fiscal months
@@ -25,7 +25,7 @@ Significance of Finance Data Analysis: Benchmarking against industry peers and h
 
 Role of Reports: Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
-Technical & Soft Skills:
+# Technical & Soft Skills:
 Technical Skills:
 
 1.Proficiency in ETL (Extract, Transform, Load) methodology.
